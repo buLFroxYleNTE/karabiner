@@ -1,8 +1,8 @@
 {
-"title": "Maps F3 to Clipboard Screenshot",
+"title": "Print Screen to Clipboard Screenshot",
 "rules": [
 {
-"description": "F3 to Clipboard Screenshot",
+"description": "Print Screen to Clipboard Screenshot",
 "manipulators": [
 {
 "type": "basic",
