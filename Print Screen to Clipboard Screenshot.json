@@ -1,0 +1,24 @@
+{
+  "title": "Print Screen to Clipboard Screenshot",
+  "rules": [
+    {
+      "description": "Print Screen to Clipboard Screenshot",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "print_screen"
+          },
+          "to": {
+              "key_code": "4",
+              "modifiers": [
+                "left_command",
+                "left_control",
+                "left_shift"
+              }
+          ]
+        }
+      ]
+    }
+  ]
+}
